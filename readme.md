@@ -8,7 +8,7 @@ Laravel API with a VueJS SPA frontend. The frontend includes routing (vue-router
 Clone the repo, delete the git data, and compile the code:
 
 ```
-git clone https://github.com/Twitchedy/laravel-vuejs-spa-boilerplate.git src
+git clone https://github.com/Twitchedy/pwa-boilerplate.git src
 cd src
 rm -rf .git
 composer install
