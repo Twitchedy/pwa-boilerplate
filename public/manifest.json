@@ -1,6 +1,6 @@
 {
-  "short_name": "PWA Demo",
-  "name": "PWA Demo for Nucleus",
+  "short_name": "PWA Boilerplate",
+  "name": "Progressive Web Application Boilerplate",
   "icons": [
     {
       "src": "/img/pwa-icon.png",
