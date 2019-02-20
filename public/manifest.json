@@ -1,0 +1,21 @@
+{
+  "short_name": "PWA Demo",
+  "name": "PWA Demo for Nucleus",
+  "icons": [
+    {
+      "src": "/img/pwa-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/pwa-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1B1B1C",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#1B1B1C"
+}
